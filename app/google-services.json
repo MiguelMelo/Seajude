@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "331875892788",
+    "firebase_url": "https://se-ajude-52ba4.firebaseio.com",
+    "project_id": "se-ajude-52ba4",
+    "storage_bucket": "se-ajude-52ba4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331875892788:android:bc15942ff7b21b1d",
+        "android_client_info": {
+          "package_name": "com.avalon.app.seajude"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331875892788-k11s2br35ktggipoefk62vkqh8d9hih1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avalon.app.seajude",
+            "certificate_hash": "505660cb8e0e3f4cc030c1671461da991817b607"
+          }
+        },
+        {
+          "client_id": "331875892788-0sv34m732t51dn3ihctuuhiui7aorhpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9YsCR8kprPmwf6AJklZ-9vA-pjGwZLAI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331875892788-0sv34m732t51dn3ihctuuhiui7aorhpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
